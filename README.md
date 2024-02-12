@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🔭 I’m gslvtt, a full stack developer eager to dive into new and interesting projects and collaborations
+
 📫 Reach out if you have any ideas you'd like to discuss any ideas
+
 🌱 Thank you for stopping by!
 
 
