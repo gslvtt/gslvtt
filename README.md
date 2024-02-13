@@ -1,8 +1,6 @@
 🔭 I’m gslvtt, a full stack developer eager to dive into new and interesting projects and collaborations
 
-My [Linkedin](https://www.linkedin.com/in/giovanni-silvotti/)
-
-📫 Reach out if you have any ideas you'd like to discuss
+📫 Reach out if you have any ideas you'd like to discuss: [My Linkedin](https://www.linkedin.com/in/giovanni-silvotti/)
 
 🌱 Thank you for stopping by!
   
